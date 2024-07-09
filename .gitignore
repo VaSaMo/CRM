@@ -1,0 +1,26 @@
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variable files
+.env
+.env.local
+
+# pyvenv.cfg
+pyvenv.cfg
+
+# macOS specific files
+.DS_Store
